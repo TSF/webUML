@@ -1,0 +1,78 @@
+BODY {
+  background-image: url("http://static.thesoftwarefactory.be/images/background-webuml-corner-large.png");
+}
+
+H1 {
+    color:#6699FF; 
+}
+
+A:hover { 
+  color:#6699FF; 
+}
+
+A.icon {
+  background-repeat:no-repeat;
+  padding-top:4px; 
+  padding-bottom:5px; 
+  padding-left:23px;
+}
+
+P {
+ text-align: justify; 
+}
+
+FORM TH {
+ text-align:left;
+}
+
+DIV.infobox {
+ float: right;
+ border: 1px solid #aaa;
+ width: 200px;
+ padding:10px;
+ margin-left: 15px;
+ color:#777; 
+}
+
+DIV.message {
+ border: 1px solid #6699ff;
+}
+
+DIV.message DIV {
+  text-align: center;
+ padding: 5px;
+ border: 2px solid white;
+ background-color: #bbddff;
+ color: #555;
+}
+
+TABLE.supporters {
+  width:100%;
+  border-top:1px solid #e5eff8;
+  border-right:1px solid #e5eff8;
+  margin:1em auto;
+  border-collapse:collapse;
+}
+
+TABLE.supporters TD {
+  width: 20%;
+  color:#666;
+  border-bottom:1px solid #e5eff8;
+  border-left:1px solid #e5eff8;
+  padding:1em 1em;
+  text-align:center;
+}
+
+.pageinfo {
+  text-align: left;
+  color: #cccccc;
+  padding-top: 15px;
+}
+
+.pageinfo A {
+  color: #cccccc;  
+}
+
+DIV.sitemap {
+  background-color: #cdf; 
+}
