@@ -1,3 +1,8 @@
+---
+layout: default
+title: webUML - releasing UML on the web
+---
+
     <a name="Supporters" id="Supporters"></a><h1> <span class="mw-headline">Supporters</span></h1>
 <p>
   Below is a list of people who have already signed up as a supporter of this initiative. 
