@@ -1,0 +1,87 @@
+Ivana Hájíčková;Czech Republic
+Bram Fabeck;Antwerp Area, Belgium
+Eric Wang;Beijing, China
+Manu Dev;Pune, India
+Carlos E. Morales M.;Venezuela
+Lucas Guilherme Diedrich;Foz do Iguaçu, Brazil
+Timmo Freudl-Gierke ;Berlin, Germany
+Esther Fan ;Greater Seattle Area, USA
+Amith Kota;Ohio, USA
+Willem Voogd;Rotterdam Area, Netherlands
+Abolfazl Hadi;Tehran,Iran
+Jim Hill;Boston, MA USA
+Ulf Hallgarn;Stockholm Area, Sweden
+Pete Kirkham;Glasgow, UK
+Govinda Padaki;Bangalore, India
+Inge Raes;Bruges Area, Belgium
+Anabel Fraga;Madrid, Spain
+Jos Cornu;Brussels Area, Belgium
+Bert De Sutter;Brussels Area, Belgium
+Erik Verreth;Antwerp Area, Belgium
+Maarten Bellekens;Antwerp Area, Belgium
+Boudewijn Guns;Brussels Area, Belgium
+Sandra K. Martinez;La Paz, Bolivia
+Daniela Cancila;France
+Hans Vangheluwe;Antwerp Area, Belgium
+Antonio Vallecillo;Málaga Area, Spain
+Dieter Lauwers;Antwerp Area, Belgium
+Steve Westerlinck;Antwerp Area, Belgium
+Akhtar Ali Jalbani;Kassel Area, Germany
+José Raúl Romero;Córdoba Area, Spain
+Jonathan Chandler;Tasmania, Australia
+Gert Weckx;Namur Area, Belgium
+Jan Simons;Brussels Area, Belgium
+James Shoemaker;Great Falls, Montana Area
+Alfred Crombez;Gent Area, Belgium
+Andrea Baruzzo;Trieste Area, Italy
+Christine Smeets;Antwerp Area, Belgium
+Pau Ortega Suteras;Barcelona Area, Spain
+Manu Heirbaut;Antwerp Area, Belgium
+Jeff Wuyts;Antwerp Area, Belgium
+Sergio Morales;Barcelona Area, Spain
+Juan-Manuel Vara;Madrid Area, Spain
+Bert Van den Brande;Antwerp Area, Belgium
+Johan Boogaerts;Brussels Area, Belgium
+Johan Smeuninx;Brussels Area, Belgium
+Mike DeBari;New London/Norwich, Connecticut Area
+Jan Mennens;Brussels Area, Belgium
+Peter Vantieghem;Brussels Area, Belgium
+Kristof Vereecke;Belgium
+Geert Vermeiren;Antwerp Area, Belgium
+Peter Janssens;Antwerp Area, Belgium
+Jordi Cabot;Nantes Area, France
+Marc De Valckenaere;Brussels Area, Belgium
+Tom Andries;Gent Area, Belgium
+Murielle Florins;Charleroi Area, Belgium
+Ann Holderbeke;Brussels Area, Belgium
+Ron De Vries;Brussels Area, Belgium
+Mark Van der Jonckheyd;Antwerp Area, Belgium
+Geert Lathouwers;Brussels Area, Belgium
+Griet Barrezeele;Brussels Area, Belgium
+Klaas Gadeyne;Leuven, Belgium
+Miguel P. Barrero;Gijón, Spain
+Emilio R. Priego;Logroño, Spain
+Luc Gadeyne;Blanden, Belgium
+Jose Zouain;Jacksonville, Florida, USA
+Paolo Cantoni;Perth, Western Australia
+Peter De Bruycker;Desteldonk, Belgium
+Jim Logan;Vienna, VA, USA
+Ron Putting;Capelle aan den IJssel, Netherlands
+Leslie Munday;Seattle, USA
+Jagadeesh;Bangalore, India
+Bert Maes;Brussels, Belgium
+Gerrit Cap;Leuven, Belgium
+Cory Casanave;Vienna, VA, USA
+Vladimir Varnica;Milton keynes, UK
+Lars Ericson;Goteborg, Sweden
+Jan Mertens;Leuven, Belgium
+Kristien Tambuyzer;Schriek, Belgium
+Peter Nees;Antwerp, Belgium
+Gordon Morrison;League City, Texas
+Nico Van Goethem;Mechelen, Belgium
+Fred Woolsey;Philadelphia, PA, USA
+David Fyfe;Melbourne, Australia
+Bavo De Ridder;Tremelo, Belgium
+Geert Bellekens;Antwerp, Belgium
+Koen Hautekeete;Wetteren, Belgium
+Christophe Van Ginneken;Schriek, Belgium
